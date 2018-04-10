@@ -34,3 +34,4 @@ exclude:
   - node_modules
   - scripts/
   - data/ #Note: does not affect _data folder
+theme: jekyll-theme-cayman
